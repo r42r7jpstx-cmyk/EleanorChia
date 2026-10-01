@@ -83,9 +83,9 @@
     "\"Authentic value is forged when cutting-edge technology effortlessly synchronizes with clinical necessity—a synchrony driven by flawless channel orchestration.\"": "\"真正的应用价值是在极其尖端甚至前卫科技顺畅交织匹配临床医学刚需的过程中逐渐升华而成形的，这种同频共振离不开对上下游网络无缝完美运营管控。\"",
     "Foundational Leadership": "管理层核心人员",
     "Founder & CEO": "创始人与公司执行长 (CEO)",
-    "Harmony Ruby Koh": "Harmony Ruby Koh",
+    "Eleanor Chia": "Eleanor Chia",
     "Professional Background:": "业务经历：",
-    "Eleanor Chia’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "Harmony Ruby Koh 将个人的哲学和业务重点锁定定位于高端商业贸易与临床效用的融合处。她较早感知且洞悉目前国际尖端医学设备全产业链条供需层上的巨大断层及低效性由此打造了 Averence Medical Group 作为绝对精锐核心不退让及最可靠的高标准全球调拨传输专线。",
+    "Eleanor Chia’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "Eleanor Chia 将个人的哲学和业务重点锁定定位于高端商业贸易与临床效用的融合处。她较早感知且洞悉目前国际尖端医学设备全产业链条供需层上的巨大断层及低效性由此打造了 Averence Medical Group 作为绝对精锐核心不退让及最可靠的高标准全球调拨传输专线。",
     "Strategic Vision:": "战略远瞩规划:",
     "Her vision transcends basic procurement, focusing on equipping top-tier clinical institutions with reliable, high-performance healthcare technologies. This scalable strategy bridges global healthcare inequalities through direct institutional partnerships.": "不仅是粗加工纯采购那么简单她的宏大视角是将目标升华为对顶级专业世界各地最强诊所科研学术环境的高性能武装。这一稳固策略恰到好处直接打破消灭因地区带来的不可获取资源不平等直接链接医院与机构顶端合作。",
     "Leadership Philosophy:": "指挥领导思维：",
@@ -375,9 +375,9 @@ const staticTranslationsFR = {
     "\"Authentic value is forged when cutting-edge technology effortlessly synchronizes with clinical necessity—a synchrony driven by flawless channel orchestration.\"": "\"La valeur authentique se forge lorsque la technologie de pointe se synchronise sans effort avec la nécessité clinique — une synchronie stimulée par une orchestration impeccable des canaux.\"",
     "Foundational Leadership": "Direction Fondatrice",
     "Founder & CEO": "Fondatrice et PDG",
-    "Harmony Ruby Koh": "Harmony Ruby Koh",
+    "Eleanor Chia": "Eleanor Chia",
     "Professional Background:": "Expérience Professionnelle :",
-    "Harmony Ruby Koh’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La philosophie de Harmony Ruby Koh est enracinée dans la convergence du commerce de haut niveau et de l'efficacité clinique. Reconnaissant les inefficacités profondes qui prévalent dans les réseaux internationaux d'approvisionnement médical, elle a conçu Averence pour fonctionner comme un canal de distribution unifié et sans compromis.",
+    "Eleanor Chia’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La philosophie de Eleanor Chia est enracinée dans la convergence du commerce de haut niveau et de l'efficacité clinique. Reconnaissant les inefficacités profondes qui prévalent dans les réseaux internationaux d'approvisionnement médical, elle a conçu Averence pour fonctionner comme un canal de distribution unifié et sans compromis.",
     "Strategic Vision:": "Vision Stratégique :",
     "Her vision transcends basic procurement, focusing on equipping top-tier clinical institutions with reliable, high-performance healthcare technologies. This scalable strategy bridges global healthcare inequalities through direct institutional partnerships.": "Sa vision transcende l'approvisionnement de base, se concentrant sur l'équipement des institutions cliniques de premier ordre avec des technologies de santé fiables et performantes. Cette stratégie évolutive comble les inégalités mondiales en matière de santé grâce à des partenariats institutionnels directs.",
     "Leadership Philosophy:": "Philosophie de Direction :",
@@ -480,7 +480,7 @@ const staticTranslationsFR = {
     "Product Details - Averence Medical Group": "Détails du Produit - Averence Medical Group",
     "Professional Focus | Averence Medical Group": "Expertise | Averence Medical Group",
     "Executive Profile - Averence Medical Group": "Profil Exécutif - Averence Medical Group",
-    "Averence Medical Group | Harmony Ruby Koh": "Averence Medical Group | Harmony Ruby Koh",
+    "Averence Medical Group | Eleanor Chia": "Averence Medical Group | Eleanor Chia",
     "Results / Impact": "Résultats / Impact",
     "Overview text placeholder": "Texte d'aperçu",
     "Challenge description goes here.": "La description du défi va ici.",
@@ -616,9 +616,9 @@ const staticTranslationsDE = {
     "\"Authentic value is forged when cutting-edge technology effortlessly synchronizes with clinical necessity—a synchrony driven by flawless channel orchestration.\"": "\"Authentischer Wert entsteht, wenn sich modernste Technologie mühelos mit klinischer Notwendigkeit synchronisiert – eine Synchronisation, die durch fehlerfreie Kanal-Orchestrierung angetrieben wird.\"",
     "Foundational Leadership": "Gründungsführung",
     "Founder & CEO": "Gründerin & CEO",
-    "Harmony Ruby Koh": "Harmony Ruby Koh",
+    "Eleanor Chia": "Eleanor Chia",
     "Professional Background:": "Beruflicher Hintergrund:",
-    "Harmony Ruby Koh’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "Harmony Ruby Kohs Philosophie wurzelt in der Konvergenz von anspruchsvollem Handel und klinischer Effizienz. In der Erkenntnis der tiefgreifenden Ineffizienzen in internationalen medizinischen Versorgungsnetzwerken konzipierte sie Averence als einheitlichen, kompromisslosen Vertriebskanal.",
+    "Eleanor Chia’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "Eleanor Chias Philosophie wurzelt in der Konvergenz von anspruchsvollem Handel und klinischer Effizienz. In der Erkenntnis der tiefgreifenden Ineffizienzen in internationalen medizinischen Versorgungsnetzwerken konzipierte sie Averence als einheitlichen, kompromisslosen Vertriebskanal.",
     "Strategic Vision:": "Strategische Vision:",
     "Her vision transcends basic procurement, focusing on equipping top-tier clinical institutions with reliable, high-performance healthcare technologies. This scalable strategy bridges global healthcare inequalities through direct institutional partnerships.": "Ihre Vision geht über die reine Beschaffung hinaus und konzentriert sich darauf, erstklassige klinische Einrichtungen mit zuverlässigen, leistungsstarken Gesundheitstechnologien auszustatten. Diese skalierbare Strategie überbrückt globale Ungleichheiten in der Gesundheitsversorgung durch direkte institutionelle Partnerschaften.",
     "Leadership Philosophy:": "Führungsphilosophie:",
@@ -721,7 +721,7 @@ const staticTranslationsDE = {
     "Product Details - Averence Medical Group": "Produktdetails - Averence Medical Group",
     "Professional Focus | Averence Medical Group": "Fachkompetenz | Averence Medical Group",
     "Executive Profile - Averence Medical Group": "Führungsprofil - Averence Medical Group",
-    "Averence Medical Group | Harmony Ruby Koh": "Averence Medical Group | Harmony Ruby Koh",
+    "Averence Medical Group | Eleanor Chia": "Averence Medical Group | Eleanor Chia",
     "Results / Impact": "Ergebnisse / Wirkung",
     "Overview text placeholder": "Übersicht Text Platzhalter",
     "Challenge description goes here.": "Die Beschreibung der Herausforderung.",
@@ -881,7 +881,7 @@ staticTranslations["Case Study - Averence Medical Group"] = "案例研究 - Aver
 staticTranslations["Product Details - Averence Medical Group"] = "产品详情 - Averence Medical Group";
 staticTranslations["Professional Focus | Averence Medical Group"] = "专业聚焦 | Averence Medical Group";
 staticTranslations["Executive Profile - Averence Medical Group"] = "高管档案 - Averence Medical Group";
-staticTranslations["Averence Medical Group | Harmony Ruby Koh"] = "Averence Medical Group | Harmony Ruby Koh";
+staticTranslations["Averence Medical Group | Eleanor Chia"] = "Averence Medical Group | Eleanor Chia";
 staticTranslations["Results / Impact"] = "结果 / 影响";
 staticTranslations["Overview text placeholder"] = "概述文本占位符";
 staticTranslations["Challenge description goes here."] = "挑战描述占位符";
@@ -993,9 +993,9 @@ Object.assign(staticTranslationsES, {
     "\"Authentic value is forged when cutting-edge technology effortlessly synchronizes with clinical necessityâ€”a synchrony driven by flawless channel orchestration.\"": "\"El valor autÃ©ntico se forja cuando la tecnologÃ­a de vanguardia se sincroniza sin esfuerzo con la necesidad clÃ­nica, una sincronÃ­a impulsada por la orquestaciÃ³n inquebrantable de todos nuestros flujos integrales de suministro.\"",
     "Foundational Leadership": "Liderazgo Directivo",
     "Founder & CEO": "Fundadora y CEO",
-    "Harmony Ruby Koh": "Harmony Ruby Koh",
+    "Eleanor Chia": "Eleanor Chia",
     "Professional Background:": "Trayectoria Profesional:",
-    "Harmony Ruby Kohâ€™s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La filosofÃ­a y enfoque directivo radican sobre las bases al comercio logÃ­stico sin demoras con altos estÃ¡ndares, dotando sus objetivos y visualizando las brechas para transformar todas redes en una potencia distribuidora consolidada segura, eficaz interinstitucional libre de la fracturada logÃ­stica que retarda impactos.",
+    "Eleanor Chiaâ€™s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La filosofÃ­a y enfoque directivo radican sobre las bases al comercio logÃ­stico sin demoras con altos estÃ¡ndares, dotando sus objetivos y visualizando las brechas para transformar todas redes en una potencia distribuidora consolidada segura, eficaz interinstitucional libre de la fracturada logÃ­stica que retarda impactos.",
     "Strategic Vision:": "VisiÃ³n EstratÃ©gica:",
     "Her vision transcends basic procurement, focusing on equipping top-tier clinical institutions with reliable, high-performance healthcare technologies. This scalable strategy bridges global healthcare inequalities through direct institutional partnerships.": "Su alto panorama se posicionÃ³ muy superiormente al clÃ¡sico entorno distribuidor apuntalÃ¡ndolo hacia ser parte constituyente entregando capacidades clÃ­nicas directamente uniendo fuertes dotaciones superiores inter y rompiendo lÃ­mites geogrÃ¡ficos y de acceso mundial equipando y afianzando sociedades consolidadas por encima.",
     "Leadership Philosophy:": "FilosofÃ­a Directriz Dirigencial:",
@@ -1101,7 +1101,7 @@ Object.assign(staticTranslationsES, {
     "Product Details - Averence Medical Group": "Altas Prestaciones e ImplementaciÃ³n Operacional Del Sistema Global Averence Medical - Detalle del Equipo",
     "Professional Focus | Averence Medical Group": "Centros Interconectivos del Enfoque Macro Resolutivo Funcional Operativamente | La Estructura y VÃ­nculo Formal Corporativo en Averence Medical Group",
     "Executive Profile - Averence Medical Group": "Estructuras Altamente Representativas del DesempeÃ±o Corporativo Integrador Formal y Macro Dirigencial Ejecutivo Interconectivo | Averence Medical Group y su Mesa Directiva",
-    "Averence Medical Group | Harmony Ruby Koh": "CorporaciÃ³n Averence Medical Group LogÃ­stica Integral Mundialmente Posicionada | Liderada por la Experiencia Ejecutiva y DirecciÃ³n Suprema Empresarial bajo Harmony Ruby Koh",
+    "Averence Medical Group | Eleanor Chia": "CorporaciÃ³n Averence Medical Group LogÃ­stica Integral Mundialmente Posicionada | Liderada por la Experiencia Ejecutiva y DirecciÃ³n Suprema Empresarial bajo Eleanor Chia",
     "Results / Impact": "Resultados MacroeconÃ³micos ClÃ­nicos Consolidados e Impactos Formales Operativos Operacionalmente Medibles",
     "Overview text placeholder": "[ Marcador para la descripciÃ³n referencial macro o texto formal corporativo ]",
     "Challenge description goes here.": "[ DesafÃ­os operacionales logÃ­sticos y referenciales o informaciÃ³n requerida va listÃ¡ndose en el presente espaciado corporativamente formal del elemento integrador. ]",
@@ -1144,7 +1144,7 @@ Object.assign(staticTranslationsES, {
     "Southeast Asia": "Sudeste AsiÃ¡tico",
     "Europe": "Europa",
     "Middle East": "Oriente Medio",
-    "Harmony Ruby Koh's philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La filosofÃ­a y enfoque directivo radican sobre las bases al comercio logÃ­stico sin demoras con altos estÃ¡ndares, dotando sus objetivos y visualizando las brechas para transformar todas redes en una potencia distribuidora consolidada segura, eficaz interinstitucional libre de la fracturada logÃ­stica que retarda impactos.",
+    "Eleanor Chia's philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La filosofÃ­a y enfoque directivo radican sobre las bases al comercio logÃ­stico sin demoras con altos estÃ¡ndares, dotando sus objetivos y visualizando las brechas para transformar todas redes en una potencia distribuidora consolidada segura, eficaz interinstitucional libre de la fracturada logÃ­stica que retarda impactos.",
     "Meet the professionals guiding AVERENCE Medical Group's vision, operations, and commitment to advancing healthcare technology.": "Conozca a nuestros profesionales y cuerpo de direcciones responsables de la operaciÃ³n, compromisos y todo avance impulsado guiando al marco clÃ­nico totalitario con los fuertes lineamientos en la organizaciÃ³n a mundial tecnologÃ­a."
 });
 
@@ -1254,7 +1254,7 @@ Object.assign(staticTranslationsES, {
 Object.assign(staticTranslationsES, {
     "Founder & CEO": "Fundadora y CEO",
     "Professional Background:": "Trayectoria Profesional:",
-    "Harmony Ruby Koh’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La filosofía de Harmony Ruby Koh radica en la convergencia entre el comercio de alto nivel y la eficacia clínica. Al reconocer las profundas ineficiencias de las redes internacionales de suministros médicos, diseñó Averence para operar como un medio de distribución unificado e inquebrantable.",
+    "Eleanor Chia’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "La filosofía de Eleanor Chia radica en la convergencia entre el comercio de alto nivel y la eficacia clínica. Al reconocer las profundas ineficiencias de las redes internacionales de suministros médicos, diseñó Averence para operar como un medio de distribución unificado e inquebrantable.",
     "Strategic Vision:": "Visión Estratégica:",
     "Her vision transcends basic procurement, focusing on equipping top-tier clinical institutions with reliable, high-performance healthcare technologies. This scalable strategy bridges global healthcare inequalities through direct institutional partnerships.": "Su visión va más allá de las simples adquisiciones, enfocándose en dotar a instituciones clínicas de primer nivel con tecnologías médicas confiables de alto rendimiento. Esta estrategia escalable reduce la desigualdad en la atención médica a nivel mundial mediante alianzas institucionales directas.",
     "Leadership Philosophy:": "Filosofía de Liderazgo:",
