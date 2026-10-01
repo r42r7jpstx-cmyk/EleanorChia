@@ -85,7 +85,7 @@
     "Founder & CEO": "创始人与公司执行长 (CEO)",
     "Harmony Ruby Koh": "Harmony Ruby Koh",
     "Professional Background:": "业务经历：",
-    "Harmony Ruby Koh’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "Harmony Ruby Koh 将个人的哲学和业务重点锁定定位于高端商业贸易与临床效用的融合处。她较早感知且洞悉目前国际尖端医学设备全产业链条供需层上的巨大断层及低效性由此打造了 Averence Medical Group 作为绝对精锐核心不退让及最可靠的高标准全球调拨传输专线。",
+    "Eleanor Chia’s philosophy is rooted in the convergence of high-level commerce and clinical efficacy. Recognizing the profound inefficiencies prevalent in international medical supply networks, she engineered Averence to function as a unified, uncompromising distribution conduit.": "Harmony Ruby Koh 将个人的哲学和业务重点锁定定位于高端商业贸易与临床效用的融合处。她较早感知且洞悉目前国际尖端医学设备全产业链条供需层上的巨大断层及低效性由此打造了 Averence Medical Group 作为绝对精锐核心不退让及最可靠的高标准全球调拨传输专线。",
     "Strategic Vision:": "战略远瞩规划:",
     "Her vision transcends basic procurement, focusing on equipping top-tier clinical institutions with reliable, high-performance healthcare technologies. This scalable strategy bridges global healthcare inequalities through direct institutional partnerships.": "不仅是粗加工纯采购那么简单她的宏大视角是将目标升华为对顶级专业世界各地最强诊所科研学术环境的高性能武装。这一稳固策略恰到好处直接打破消灭因地区带来的不可获取资源不平等直接链接医院与机构顶端合作。",
     "Leadership Philosophy:": "指挥领导思维：",
